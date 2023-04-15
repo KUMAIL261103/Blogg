@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Party",
+      "body": "Whyb do we use it\n It is a long establishement fact that a reader will be diatracted",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "first",
+      "body": "new blog added this is my trial blogg",
+      "author": "Kumail",
+      "id": 3
+    },
+    {
+      "title": "second",
+      "body": "fefnwaef",
+      "author": "Kumail",
+      "id": 4
+    },
+    {
+      "title": "fourth",
+      "body": "heloo trying to renavigate to the home page after using addd blogg pge",
+      "author": "Kumail",
+      "id": 6
+    }
+  ]
+}
